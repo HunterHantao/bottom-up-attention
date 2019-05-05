@@ -1,3 +1,12 @@
+
+Hantao: Config
+conda 2.6.14
+python 2.7
+opencv 2.4.1
+
+
+
+
 # bottom-up-attention
 
 This code implements a bottom-up attention model, based on multi-gpu training of Faster R-CNN with ResNet-101, using object and attribute annotations from [Visual Genome](http://visualgenome.org/).
